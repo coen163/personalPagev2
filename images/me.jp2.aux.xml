@@ -1,0 +1,52 @@
+<PAMDataset>
+  <Metadata domain="IMAGE_STRUCTURE">
+    <MDI key="INTERLEAVE">PIXEL</MDI>
+  </Metadata>
+  <Metadata>
+    <MDI key="EXIF_ColorSpace">1</MDI>
+    <MDI key="EXIF_DateTime">2019:11:20 07:30:50</MDI>
+    <MDI key="EXIF_DateTimeDigitized">2019:11:20 07:30:50</MDI>
+    <MDI key="EXIF_DateTimeOriginal">2019:11:20 07:30:50</MDI>
+    <MDI key="EXIF_ExifVersion">0220</MDI>
+    <MDI key="EXIF_ExposureMode">0</MDI>
+    <MDI key="EXIF_ExposureProgram">2</MDI>
+    <MDI key="EXIF_ExposureTime">(0.0416667)</MDI>
+    <MDI key="EXIF_Flash">0</MDI>
+    <MDI key="EXIF_FNumber">(1.7)</MDI>
+    <MDI key="EXIF_FocalLength">(2.95)</MDI>
+    <MDI key="EXIF_FocalLengthIn35mmFilm">25</MDI>
+    <MDI key="EXIF_ImageUniqueID">V08LLJA01PM V08LLJA01PM
+</MDI>
+    <MDI key="EXIF_ISOSpeedRatings">160</MDI>
+    <MDI key="EXIF_Make">samsung</MDI>
+    <MDI key="EXIF_MakerNote"></MDI>
+    <MDI key="EXIF_MaxApertureValue">(1.531)</MDI>
+    <MDI key="EXIF_MeteringMode">2</MDI>
+    <MDI key="EXIF_Model">SM-G950F</MDI>
+    <MDI key="EXIF_Orientation">1</MDI>
+    <MDI key="EXIF_PixelXDimension">3264</MDI>
+    <MDI key="EXIF_PixelYDimension">2448</MDI>
+    <MDI key="EXIF_ResolutionUnit">2</MDI>
+    <MDI key="EXIF_SceneCaptureType">4</MDI>
+    <MDI key="EXIF_Software">G950FXXS5DSI9</MDI>
+    <MDI key="EXIF_WhiteBalance">0</MDI>
+    <MDI key="EXIF_XResolution">(72)</MDI>
+    <MDI key="EXIF_YCbCrPositioning">1</MDI>
+    <MDI key="EXIF_YResolution">(72)</MDI>
+  </Metadata>
+  <PAMRasterBand band="1">
+    <Metadata domain="IMAGE_STRUCTURE">
+      <MDI key="COMPRESSION">JPEG2000</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="2">
+    <Metadata domain="IMAGE_STRUCTURE">
+      <MDI key="COMPRESSION">JPEG2000</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="3">
+    <Metadata domain="IMAGE_STRUCTURE">
+      <MDI key="COMPRESSION">JPEG2000</MDI>
+    </Metadata>
+  </PAMRasterBand>
+</PAMDataset>
